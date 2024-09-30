@@ -1,12 +1,17 @@
 {
   "name": "sparql-store-lite",
   "version": "1.0.0",
-  "description": "placeholder",
+  "description": "a lightweight SPARQL store",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "SPARQL",
+    "RDF",
+    "graph",
+    "knowledgebase"
+  ],
+  "author": "Danny Ayers",
+  "license": "MIT"
 }

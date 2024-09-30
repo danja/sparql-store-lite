@@ -1,0 +1,15 @@
+{
+    "output": {
+        "filePath": "./sparql-store-lite-repopack.txt",
+        "headerText": "sparql-store-lite source files",
+        "removeComments": true
+    },
+    "ignore": {
+        "useDefaultPatterns": true,
+        "customPatterns": [
+            "*.log",
+            "docs",
+            "**/*repopack*"
+        ]
+    }
+}
